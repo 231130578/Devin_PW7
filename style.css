@@ -1,0 +1,35 @@
+img {
+    width: 400px;
+    height: 300px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    color: aliceblue;
+    background-color: rgb(70, 153, 185);
+}
+
+
+body {
+    float: left;
+    padding-left: 20px;
+    border-bottom: 3cm;
+    margin: 0 auto;
+}
+
+p#Brd {
+    border: 35px;
+}
+
+p#Bold {
+    text-decoration: dotted;
+}
+
+p#apa {
+    padding: 10px;
+}
+
+div {
+    background-color: cornsilk;
+}
